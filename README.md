@@ -1,6 +1,3 @@
-Certainly! Here is the entire README file in markdown format:
-
-```markdown
 # Sea Surface Temperature Prediction using LSTM
 
 ## Problem Statement
@@ -75,15 +72,15 @@ This project successfully developed an LSTM-based model to predict Sea Surface T
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/sea-surface-temperature-prediction.git
+   git clone https://github.com/UtkarshRaj130/justOne.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd sea-surface-temperature-prediction
+   cd justOne
    ```
 3. Install the required libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install numpy pandas tensorflow sklearn matplotlib
    ```
 
 ### Usage
@@ -99,13 +96,9 @@ This project successfully developed an LSTM-based model to predict Sea Surface T
 ## Files
 - `train.ipynb`: Notebook for training the LSTM model.
 - `predict.ipynb`: Notebook for predicting SST using the trained model.
-- `requirements.txt`: List of required libraries.
 
 ## Acknowledgments
-I would like to show my gratitude to all those involved in creating this problem statement for us. Looking forward to working on interesting projects in AI, ML, DL, and NN with both the clubs.
+I would like to show my gratitude to all those involved in creating this project for us. Looking forward to working on interesting projects in AI, ML, DL, and NN with both the clubs.
 
 Thanking You,  
 Utkarsh Raj
-```
-
-Make sure to replace the URL in the clone command with your actual GitHub repository URL. Adjust the file paths and descriptions as necessary based on your specific project structure.
